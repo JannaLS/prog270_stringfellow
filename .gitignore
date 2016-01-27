@@ -1,1 +1,7 @@
 node_modules
+.metadat
+.idea
+bower_components
+components
+Thumbs.db
+*.zip
