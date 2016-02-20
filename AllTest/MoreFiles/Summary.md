@@ -1,1 +1,4 @@
-* [more-files.html](more-files.html)
+* [Art.html](Art.html)
+* [Shopping.html](Shopping.html)
+* [Traveling.html](Traveling.html)
+* [WalkingMapStringfellow.html](WalkingMapStringfellow.html)
