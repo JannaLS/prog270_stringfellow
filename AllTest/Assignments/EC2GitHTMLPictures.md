@@ -6,5 +6,5 @@
 <img class="twentyfive" src="/images/deflating.png" alt="Deflating">
 
 ##Inflating
-<img src="/images/Inflating.png" alt="Inflating">
-<img class="twentyfive" src="/images/Inflating.png" alt="Inflating">
+<img src="/images/inflating.png" alt="Inflating">
+<img class="twentyfive" src="/images/inflating.png" alt="Inflating">
