@@ -1,2 +1,0 @@
-## Traveling 
-[](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiOpeuIgoXLAhUK1mMKHR92DLkQjRwIAw&url=https%3A%2F%2Fwww.hawaiianphotos.net%2Fhawaiiansunsets.htm&psig=AFQjCNEaWvaUwVKJJU5uHl-I3AGq9DrjLQ&ust=1456012149333728) 
